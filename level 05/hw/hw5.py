@@ -16,26 +16,26 @@ print(message)
 a = 15
 b = 5
 result = a * b
-print("The result of division is: " + result)
+print("the result of division is:  + result")
 
 #2
 
 first_name = "John"
 last_name = "Doe"
-full_name = first_name + "last_name" 
+full_name = first_name + last_name 
 print(full_name)
 
 quantity = 3
 item = "apples"
-message = "I have " + quantity + " " + item + "."
+message = "I have  + quantity + " "  item ."
 print(message)
 
 #3
 
 greeting = "Hello"
 name = "World"
-full_message = greeting + " " + name
-print(full_message)
+full_message = "greeting  +  name"
+print(full_message) 
 
 a = 50
 b = 100
