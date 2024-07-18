@@ -8,11 +8,12 @@
 
 #string-ები როცა ერთებიან მას ეწოდება კონკატენაცია
 
-#name = input("< enter your name")
-#surname = input("< enter your surname")
-#print(name + surname)
+# name = input("< enter your name")
+# surname = input("< enter your surname")
+# print(name + surname)
 
-eating_what_i_want = input("what do you want to eat?")
-print(eating_what_i_want)
+#eating_what_i_want = input("what do you want to eat?")
+#print(eating_what_i_want)
 
 
+print("hello" + " hello")
